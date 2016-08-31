@@ -1,0 +1,102 @@
+Pivotal study,"List here questions you encountered during your search, and document how you decided",,
+,,,
+,Question,Decision,Date
+HT-Scrambled,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",9 avril
+HT-Scrambled,Type of population to include ?,Only healthy population (no specific disease population),9 avril
+HT-Scrambled,Type of measure ?,Only behavoural mesures (no brain measures),9 avril
+HT-Scrambled,Type of stimulus ?,Presentation of face(like) stimuli on displays with always comparison to a face,9 avril
+HT-Scrambled,Behavior measured ?,Head turn (following a moving display),9 avril
+HT-Scrambled,Crossmodal stimulus ?,"No, only faces (no sound/smell, etc)",9 avril
+HT-Scrambled,Age of participants ?,Less than 2 years old or at least pre-verbal task,9 avril
+HT-Scrambled,Other features of faces ?,"No, features such as attractiveness or inversion are not relevant",9 avril
+HT-Scrambled,Pairs of stimuli ?,No pairs (stimuli are not in concurrence at the same time),9 avril
+,,,
+,,,
+,,,
+,Question,Decision,Date
+LTNum,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",11 avril
+LTNum,Type of population to include ?,Only healthy human population (no specific disease population),11 avril
+LTNum,Type of measure ?,Only behavoral mesures (no brain measures),11 avril
+LTNum,Type of stimui ?,Adding and removing objects behind a screen,11 avril
+LTNum,Behavior measured ?,Looking time,11 avril
+LTNum,Age of participants ?,Pre-verbal (ie generally less than 24 months old),11 avril
+LTNum,Crossmodality ?,"No, only visual stimuli",11 avril
+LTNum,Operation tested ?,"Adding or subtracting, not identity/unity of one object",12 avril
+,,,
+,Question,Decision,Date
+GrSoc,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",13 avril
+,Type of population to include ?,Only healthy human population (no specific disease population),13 avril
+,Type of measure ?,Only behavoral mesures (no brain measures),13 avril
+,Type of stimuli ?,Stimuli presenting a social interaction with differently valued actors,13 avril
+,Behavior measured ?,"Grabbing a puppet, not helping the actor / puppet",13 avril
+,Age of participants ?,Pre-verbal (ie generally less than 24 months old),13 avril
+,,,
+,Question,Decision,Date
+VisStats,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",13 avril
+,Type of population to include ?,Only healthy human population (no specific disease population),13 avril
+,Type of measure ?,Only behavoral mesures (no brain measures),13 avril
+,Type of stimuli ?,Visual stimuli : habituation to sequences of visual shapes and then looking time for familiar and novel pairs (no auditory / language studies). No crossmodality.,13 avril
+,Distraction ?,"No, studies should not affect attention of the infant.",13 Avril
+,Sequence of stimuli ?,There should be a habituation face to sequences and then testing novel / familiar sequences.,13 avril
+,Behavior measured ? ,looking time. ,
+,,,
+,Question,Decision,Date
+InfStats,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",13 avril
+,Type of population to include ?,Only healthy human population (no specific disease population),13 avril
+,Type of measure ?,Only behavoral mesures (no brain measures),13 avril
+,Order of presentation ?,Distinguish cases of sample then pop and cases of the reverse.,13 avril
+,Role of statistical inference ?,"Statistical inference shouldn't be limited or concurrenced by other types of information (ie physical properties, physical constraints, etc)",13 avril
+,Type of stimulus ?,Visual stimulus with samples / populations (not auditory),13 avril
+,Behavior measured ? ,Looking time. ,i
+,,,
+,Question,Decision,Date
+WSeg,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",13 avril
+,Type of population to include ?,Only healthy human population (no specific disease population),13 avril
+,Type of measure ?,Only behavoral mesures (no brain measures),13 avril
+,Order of trials ?,Distinguish fluent speech as test or as habituation,13 avril
+,Which languages ?,All languages but take not of language and distinguish artificial ones,13 avril
+,Checking for exactitude of matching ?,Do not admit experiment that test for loose matching (ie : will very similar words or rules words be recognized) or for cases when sound sequences build other words (different boundaries cues),13 avril
+,Length of words ?,Accept all lengths of words but distinguish them ?,13 avril
+,Type of behavior coded ?,Head turning towards a speaker on the side.,13 avril
+,Modalities of speech ?,Any type of speech (infant directed / mother / stranger) or language but must be consistent accross trials. Ie : no testing within experiment for effect of speech type.,13 avril
+,Structure of sounds ?,Recognition of words and not of sound patterns (ie C/V sequences) should be tested.,13 avril
+,Length of study ?,No longitudinal study / study testing for correlations with later developmental aspects.,13 avril
+,Crossmodality ? ,No crossmodality (only auditory stimuli),14 avril
+,Distraction ? ,No noise,14 avril
+,Relationship fam / testing ?,One of them should be fluent speech (ie not streams of souds) and the other units of speech.,14 avril
+,Structure of experiment ?,Should have a familiarization in experiment and then testing,14 avril
+,Type of segmentation tested ?,"Recognizing specific words, with no interactions from the adjacent words. ",14 avril
+,Relevant unit of target test ?,Syllabic or full word units (not clause / several words units),14 avril
+,,,
+,Question,Decision,Date
+IntAct,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",15 avril
+,Type of population to include ?,Only healthy human population (no specific disease population),15 avril
+,Type of measure ?,Only behavoral mesures (no brain measures),15 avril
+,Type of stimuli ?,Visual stimuil,15 avril
+,Type of behavior measured? ,Looking time (violation of expectation),15 avril
+,Structure of experiment ?,"Habituation to an event, and then presentation of a rational and irrational variation on that event.",15 avril
+,Which data to include ?,"ie : mean of mean looking time accross test trials ? mean looking time of first trial ? dishabituation ? For now, record which type of data is provided and use the one available in most. // Conclusion : mean looking time accross test trials !",15 avril
+,Action that is relevant ?,Failed reaching is not relevant : what is rationality/irrationality of action,15 avril
+,Visibility of study ?,Exclude studies where the test is whether infants inferred whether there was an obstacle. Include studies where the test is whether infants are surprised when action doesn't accomodate for absence of obstacle.,15 avril
+,,,
+,Question,Decision,Date
+FBl,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",17 avril
+,Type of population to include ?,Only healthy human population (no specific disease population),17 avril
+,Type of measure ?,Only behavoral mesures (no brain measures),17 avril
+,Type of stimuli ?,Visual stimuil,17 avril
+,Measure ?,Non verbal task : violation of expectation. No measure of actions (such as the infant helping / intervening in the scene).,17 avril
+,Types of correlations ?,No correlational studies (for instance with later developmental aspects or with other social interactions).,17 avril
+,Stimuli presented ?,Small scene where the actor forms a belief and performs a search task after the belief has been made false.,18 avril
+,,,
+,Question,Decision,Date
+NDis,Type of article to include ?,"Only experimental reports (no reviews, no modeling, no meta-analysis)",18 avril
+,Type of population to include ?,Only healthy human population (no specific disease population),18 avril
+,Type of measure ?,Only behavoral mesures (no brain measures),18 avril
+,Type of stimuli ?,Visual,18 avril
+,Type of ratio ?,Only 1:2 or bigger ratios (but take note of other ratios experimented),18 avril
+,Type of numerosity ?,No across numerosities comparisons and only large >3 numerosity,18 avril
+,Presence of distractors ?,"No, no presence of noise / distraction from task.",18 avril
+,Modality of numerosity ?,Static numerosity (not temporal numerosit nor speed comparison),18 avril
+,Cross modality ?,"No, only visual. ",18 avril
+,Type of procedure ?,Show different amounts of items between habituation and test (not different areas),19 avril
+,Presentation rate ?,Length of trials should be infant controlled (and not subjected to a set presentation rate),19 avril
