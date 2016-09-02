@@ -1090,7 +1090,7 @@ sd_var_rand_low
 
 # FBl 
 par(mar=c(4,4,1,2))
-FBl_forest <- forest.rma(mm_FBl, slab = paste(FBl$study_ID, FBl$year, FBl$Study_type_.OR.R., sep = ", "), alim = c(-1, 5), refline = c(0.2), xlim=c(-10, 10), at =c(-1, 0, 0.2, 0.5, 2, 3.5, 5), ilab.xpos=c(-5,-3.5), ilab=cbind(FBl$x_1, FBl$x_2), ylim = c(0, 14), xlab = "Hedges' g : Effect Size")
+FBl_forest <- forest.rma(mm_FBl, slab = paste(FBl$study_ID, FBl$year, FBl$Study_type_.OR.R., sep = ", "), alim = c(-1, 5), refline = c(0.2), xlim=c(-10, 10), at =c(-1, 0, 0.2, 0.5, 2, 3.5, 5), ilab.xpos=c(-5,-3.5), ilab=cbind(FBl$x_1, FBl$x_2), ylim = c(-1, 14), xlab = "Hedges' g : Effect Size")
 
 op <- par(cex=.80, font=4)
 text(c(-5,-3.5), 12.5, c("LT Unexp. /", "Exp."))
@@ -1102,7 +1102,7 @@ FBl_forest <- title("False Belief Experiment")
 
 # NDi
 par(mar=c(4,4,1,2))
-NDi_forest <- forest.rma(mm_NDi, slab = paste(NDi$study_ID, NDi$year, NDi$Study_type_.OR.R., sep = ", "), refline = 0.2, at = c(-1, 0, 0.2, 0.5, 2), alim = c(-1, 2.5), xlim=c(-10, 10), ilab.xpos=c(-5,-3.5), ilab=cbind(NDi$x_1, NDi$x_2), ylim = c(0, 11), steps = 5, xlab = "Hedges' g : Effect Size")
+NDi_forest <- forest.rma(mm_NDi, slab = paste(NDi$study_ID, NDi$year, NDi$Study_type_.OR.R., sep = ", "), refline = 0.2, at = c(-1, 0, 0.2, 0.5, 2), alim = c(-1, 2.5), xlim=c(-10, 10), ilab.xpos=c(-5,-3.5), ilab=cbind(NDi$x_1, NDi$x_2), ylim = c(-1, 11), steps = 5, xlab = "Hedges' g : Effect Size")
 
 op <- par(cex=.80, font=4)
 text(c(-5,-3.5), 9.5, c("LT New. /", "Old #."))
